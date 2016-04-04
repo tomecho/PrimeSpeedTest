@@ -10,7 +10,7 @@ fi
 
 echo "testing everything! This could take a very long time depending on your range"
 echo "=========== C =============" >> times.txt
-gcc prime.c
+gcc -std=c11 prime.c
 { time ./a.out $range ; } >> /dev/null 2>> times.txt
 echo >> times.txt
 rm a.out
