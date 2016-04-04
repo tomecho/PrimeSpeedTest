@@ -1,0 +1,64 @@
+
+
+=========== C =============
+
+real	0m0.039s
+user	0m0.035s
+sys	0m0.002s
+
+========= Ruby ============
+
+real	0m2.310s
+user	0m6.387s
+sys	0m0.289s
+
+========= JRuby ===========
+
+real	0m2.334s
+user	0m6.292s
+sys	0m0.279s
+
+========= Python ==========
+
+real	0m1.160s
+user	0m1.131s
+sys	0m0.017s
+
+========== Java ===========
+
+real	0m0.172s
+user	0m0.153s
+sys	0m0.033s
+
+
+
+=========== C =============
+
+real	0m0.039s
+user	0m0.036s
+sys	0m0.001s
+
+========= Ruby ============
+
+real	0m2.327s
+user	0m6.251s
+sys	0m0.282s
+
+========= JRuby ===========
+
+real	0m2.333s
+user	0m6.408s
+sys	0m0.284s
+
+========= Python ==========
+
+real	0m0.976s
+user	0m0.964s
+sys	0m0.009s
+
+========== Java ===========
+
+real	0m0.184s
+user	0m0.162s
+sys	0m0.035s
+

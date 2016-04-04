@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<stdlib.h>
 #define true 1
 #define false 0
 #define bool int
@@ -22,7 +23,7 @@ int main(int argc, char** argv) {
     printf("please call me like './prime range'\n");
     return 0;
   }
-  int range = (*argv[1] - '0');
+  int range = atoi(argv[1]);
   int primes[(100 + range/6)];
   int primdex = 0;
   for(int i=0;i<range;i++){
