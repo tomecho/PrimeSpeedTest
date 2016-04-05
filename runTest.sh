@@ -8,6 +8,13 @@ else
   range=$1
 fi
 
+# require dependencies
+gcc="$(which rcc)"
+if [[ "$gcc" == "" ]]; then
+  echo 'failed to find suitable c compiler'
+  exit 1
+fi
+
 echo "testing everything! This could take a very long time depending on your range"
 echo "=========== C =============" >> times.txt
 gcc -std=c11 prime.c

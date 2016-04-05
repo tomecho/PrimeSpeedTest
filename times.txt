@@ -62,3 +62,402 @@ real	0m0.184s
 user	0m0.162s
 sys	0m0.035s
 
+
+
+
+
+
+
+
+
+=========== C =============
+
+real	0m0.005s
+user	0m0.001s
+sys	0m0.002s
+
+========= Ruby ============
+
+real	0m0.439s
+user	0m0.078s
+sys	0m0.022s
+
+========= JRuby ===========
+./runTest.sh: line 28: jruby: command not found
+
+real	0m0.017s
+user	0m0.001s
+sys	0m0.002s
+
+========= Python ==========
+
+real	0m0.042s
+user	0m0.016s
+sys	0m0.010s
+
+========== Java ===========
+
+
+=========== C =============
+
+real	0m0.004s
+user	0m0.001s
+sys	0m0.001s
+
+========= Ruby ============
+
+real	0m0.049s
+user	0m0.039s
+sys	0m0.007s
+
+========= JRuby ===========
+./runTest.sh: line 28: jruby: command not found
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+========= Python ==========
+
+real	0m0.024s
+user	0m0.013s
+sys	0m0.008s
+
+========== Java ===========
+
+real	0m0.341s
+user	0m0.133s
+sys	0m0.041s
+
+
+
+=========== C =============
+
+real	0m0.006s
+user	0m0.002s
+sys	0m0.002s
+
+========= Ruby ============
+
+real	0m0.049s
+user	0m0.038s
+sys	0m0.007s
+
+========= JRuby ===========
+./runTest.sh: line 29: jruby: command not found
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.001s
+
+========= Python ==========
+
+real	0m0.029s
+user	0m0.015s
+sys	0m0.010s
+
+========== Java ===========
+
+real	0m0.152s
+user	0m0.126s
+sys	0m0.034s
+
+
+
+=========== C =============
+
+real	0m0.004s
+user	0m0.001s
+sys	0m0.001s
+
+========= Ruby ============
+
+real	0m0.053s
+user	0m0.043s
+sys	0m0.007s
+
+========= JRuby ===========
+./runTest.sh: line 29: jruby: command not found
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+========= Python ==========
+
+real	0m0.024s
+user	0m0.013s
+sys	0m0.008s
+
+========== Java ===========
+
+real	0m0.145s
+user	0m0.121s
+sys	0m0.032s
+
+
+
+=========== C =============
+
+real	0m0.006s
+user	0m0.001s
+sys	0m0.002s
+
+========= Ruby ============
+
+real	0m0.048s
+user	0m0.039s
+sys	0m0.007s
+
+========= JRuby ===========
+./runTest.sh: line 29: jruby: command not found
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+========= Python ==========
+
+real	0m0.025s
+user	0m0.013s
+sys	0m0.008s
+
+========== Java ===========
+
+real	0m0.147s
+user	0m0.126s
+sys	0m0.034s
+
+
+
+=========== C =============
+
+real	0m0.004s
+user	0m0.001s
+sys	0m0.002s
+
+========= Ruby ============
+
+real	0m0.048s
+user	0m0.038s
+sys	0m0.007s
+
+========= JRuby ===========
+./runTest.sh: line 29: jruby: command not found
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.001s
+
+========= Python ==========
+
+real	0m0.030s
+user	0m0.015s
+sys	0m0.011s
+
+========== Java ===========
+
+real	0m0.143s
+user	0m0.118s
+sys	0m0.030s
+
+
+
+=========== C =============
+
+real	0m0.004s
+user	0m0.001s
+sys	0m0.001s
+
+========= Ruby ============
+
+real	0m0.059s
+user	0m0.047s
+sys	0m0.008s
+
+========= JRuby ===========
+./runTest.sh: line 29: jruby: command not found
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+========= Python ==========
+
+real	0m0.024s
+user	0m0.013s
+sys	0m0.008s
+
+========== Java ===========
+
+real	0m0.148s
+user	0m0.121s
+sys	0m0.033s
+
+
+
+=========== C =============
+
+real	0m0.004s
+user	0m0.001s
+sys	0m0.001s
+
+========= Ruby ============
+
+real	0m0.051s
+user	0m0.042s
+sys	0m0.007s
+
+========= JRuby ===========
+./runTest.sh: line 29: jruby: command not found
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+========= Python ==========
+
+real	0m0.025s
+user	0m0.014s
+sys	0m0.009s
+
+========== Java ===========
+
+real	0m0.148s
+user	0m0.124s
+sys	0m0.033s
+
+
+
+=========== C =============
+
+real	0m0.007s
+user	0m0.002s
+sys	0m0.003s
+
+========= Ruby ============
+
+real	0m0.054s
+user	0m0.044s
+sys	0m0.007s
+
+========= JRuby ===========
+./runTest.sh: line 29: jruby: command not found
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.001s
+
+========= Python ==========
+
+real	0m0.029s
+user	0m0.015s
+sys	0m0.010s
+
+========== Java ===========
+
+real	0m0.135s
+user	0m0.114s
+sys	0m0.028s
+
+
+
+=========== C =============
+
+real	0m0.004s
+user	0m0.001s
+sys	0m0.001s
+
+========= Ruby ============
+
+real	0m0.048s
+user	0m0.039s
+sys	0m0.006s
+
+========= JRuby ===========
+./runTest.sh: line 29: jruby: command not found
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.001s
+
+========= Python ==========
+
+real	0m0.025s
+user	0m0.013s
+sys	0m0.009s
+
+========== Java ===========
+
+real	0m0.140s
+user	0m0.118s
+sys	0m0.031s
+
+
+
+=========== C =============
+
+real	0m0.004s
+user	0m0.001s
+sys	0m0.001s
+
+========= Ruby ============
+
+real	0m0.052s
+user	0m0.043s
+sys	0m0.007s
+
+========= JRuby ===========
+./runTest.sh: line 28: jruby: command not found
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+========= Python ==========
+
+real	0m0.024s
+user	0m0.013s
+sys	0m0.008s
+
+========== Java ===========
+
+real	0m0.165s
+user	0m0.139s
+sys	0m0.036s
+
+
+
+=========== C =============
+
+real	0m0.004s
+user	0m0.001s
+sys	0m0.001s
+
+========= Ruby ============
+
+real	0m0.052s
+user	0m0.043s
+sys	0m0.007s
+
+========= JRuby ===========
+./runTest.sh: line 28: jruby: command not found
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+========= Python ==========
+
+real	0m0.027s
+user	0m0.014s
+sys	0m0.009s
+
+========== Java ===========
+
+real	0m0.144s
+user	0m0.126s
+sys	0m0.032s
+
+
+
