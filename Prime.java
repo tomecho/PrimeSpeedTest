@@ -15,7 +15,7 @@ public class Prime {
       System.exit(0);
     }
     int range = Integer.parseInt(args[0]);
-    ArrayList<Integer> primes = new ArrayList<>();
+    ArrayList<Integer> primes = new ArrayList<Integer>();
     for(int i=0;i<range;i++){
       if(test(i)) {
         primes.add(i);
