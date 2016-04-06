@@ -9,9 +9,29 @@ else
 fi
 
 # require dependencies
-gcc="$(which rcc)"
+gcc="$(which gcc)"
 if [[ "$gcc" == "" ]]; then
   echo 'failed to find suitable c compiler'
+  exit 1
+fi
+java="$(which java)"
+if [[ "$java" == "" ]]; then
+  echo 'failed to find suitable jvm'
+  exit 1
+fi
+jruby="$(which jruby)"
+if [[ "$jruby" == "" ]]; then
+  echo 'failed to find suitable jruby runtime'
+  exit 1
+fi
+ruby="$(which ruby)"
+if [[ "$ruby" == "" ]]; then
+  echo 'failed to find suitable ruby runtime'
+  exit 1
+fi
+python="$(which python)"
+if [[ "$python" == "" ]]; then
+  echo 'failed to find suitable python runtime'
   exit 1
 fi
 
